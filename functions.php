@@ -27,6 +27,7 @@ again in different files without having to write them again-->
     say_something();
     ?>
 
+    <!-- you can also call a function inside of a function  -->
 </body>
 
 </html>

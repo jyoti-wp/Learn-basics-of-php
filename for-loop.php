@@ -12,6 +12,14 @@
     <!-- while loops and for loops are not really different form each other. You can decide
     if you wanna use while loop or for loop coz they
     both can help you get the same outcome  -->
+
+    <?php
+    for ($counter = 0; $counter < 10; $counter++) {
+        echo $counter . "<br>";
+    }
+
+
+    ?>
 </body>
 
 </html>

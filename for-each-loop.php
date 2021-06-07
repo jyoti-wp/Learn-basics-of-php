@@ -19,6 +19,7 @@
     }
 
     // foreach loop assigned a number vale to each array 
+    // foreach loop will find out the value for us everytime its run. where in while loop we have to know where exactly the value is 
     ?>
 </body>
 

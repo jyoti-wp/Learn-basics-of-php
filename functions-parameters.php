@@ -22,6 +22,21 @@ and we pass the argument when we call the function -->
     }
 
     greet('<h1>Man Of Steel</h1>');
+
+
+    // lets check another example 
+
+    function calculate($name, $age)
+    {
+        echo "My name is $name and i am $age years old. <br>";
+    }
+
+    calculate("Jyoti", 28);
+    calculate("Priya", 27);
+
+    // so you can call the function as may time as you please and 
+    // pass different value each time
+    // 
     ?>
 </body>
 
